@@ -1,4 +1,4 @@
-# Exploring Weather Trends - Project done for Udacity Data Analyst Nanodegree Program 
+# Projet 01: Exploring Weather Trends - Project done for Udacity Data Analyst Nanodegree Program 
 
 ## Summary
 
